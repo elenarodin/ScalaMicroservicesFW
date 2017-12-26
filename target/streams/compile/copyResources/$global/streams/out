@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/application.conf,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/config.properties,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/config.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/logback.xml,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/favicon-16x16.png,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/favicon-16x16.png)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/favicon-32x32.png,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/favicon-32x32.png)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/index.html,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/index.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/oauth2-redirect.html,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/oauth2-redirect.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui-bundle.js,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui-bundle.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui-bundle.js.map,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui-bundle.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui-standalone-preset.js,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui-standalone-preset.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui-standalone-preset.js.map,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui-standalone-preset.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui.css,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui.css)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui.css.map,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui.css.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui.js,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui.js)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erodin200/IdeaProjects/RallyPull/src/main/resources/swagger/swagger-ui.js.map,/Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/classes/swagger/swagger-ui.js.map)[0m

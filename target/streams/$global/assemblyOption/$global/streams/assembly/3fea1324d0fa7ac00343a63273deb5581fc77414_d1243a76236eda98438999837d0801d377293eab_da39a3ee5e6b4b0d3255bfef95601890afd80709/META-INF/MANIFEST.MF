@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Scala Guice
+Implementation-Version: 4.1.0
+Specification-Vendor: net.codingwell
+Specification-Title: Scala Guice
+Implementation-Vendor-Id: net.codingwell
+Specification-Version: 4.1.0
+Implementation-URL: https://github.com/codingwell/scala-guice
+Implementation-Vendor: net.codingwell
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: swagger-scala-module
+Implementation-Version: 1.0.4
+Specification-Vendor: io.swagger
+Specification-Title: swagger-scala-module
+Implementation-Vendor-Id: io.swagger
+Specification-Version: 1.0.4
+Implementation-URL: https://github.com/swagger-api/swagger-scala-modul
+ e
+Implementation-Vendor: io.swagger
+

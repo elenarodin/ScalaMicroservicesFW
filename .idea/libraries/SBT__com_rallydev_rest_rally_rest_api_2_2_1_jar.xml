@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.rallydev.rest:rally-rest-api:2.2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rallydev.rest/rally-rest-api/jars/rally-rest-api-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.rallydev.rest/rally-rest-api/srcs/rally-rest-api-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

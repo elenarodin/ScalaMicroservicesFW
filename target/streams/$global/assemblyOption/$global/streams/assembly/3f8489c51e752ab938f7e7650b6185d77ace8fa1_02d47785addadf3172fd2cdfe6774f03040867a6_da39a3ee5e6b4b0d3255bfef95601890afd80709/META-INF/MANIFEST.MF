@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: accessus
+Implementation-Version: 0.1.0
+Specification-Vendor: Heiko Seeberger
+Specification-Title: accessus
+Implementation-Vendor-Id: de.heikoseeberger
+Specification-Version: 0.1.0
+Implementation-URL: https://github.com/hseeberger/accessus
+Implementation-Vendor: Heiko Seeberger
+

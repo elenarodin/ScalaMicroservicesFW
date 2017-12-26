@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" debug="true">
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <Pattern> %X{akkaTimestamp} [%level] Logger=%logger{36} sourceThread=%X{sourceThread} marker=%marker akkaSource=%X{akkaSource} sourceActorSystem=%X{sourceActorSystem} mdc=[ticket-#%X{ticketNumber}: %X{ticketDesc}] - %msg %n%rEx</Pattern>
+        </encoder>
+    </appender>
+    <appender name="ROLLING"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/${HOSTNAME}-rally-pec.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${HOSTNAME}-rally-pec.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <maxFileSize>100MB</maxFileSize>
+            <maxHistory>48</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <!--<Pattern> [%d{ISO8601}] [%level] Logger=%logger{36} sourceThread=%X{sourceThread} marker=%marker akkaSource=%X{akkaSource} sourceActorSystem=%X{sourceActorSystem} mdc=[ticket-#%X{ticketNumber}: %X{ticketDesc}] - %msg %n%rEx</Pattern>-->
+            <Pattern> %d{ISO8601} %X{akkaTimestamp} %-5level[%thread] %logger{5} - %msg %n%rEx</Pattern>
+        </encoder>
+    </appender>
+
+    <appender name="ACCESS-SIFT" class="ch.qos.logback.classic.sift.SiftingAppender">
+        <filter class="com.comcast.rally.pec.AccesLogFilter">
+        </filter>
+        <discriminator class="com.comcast.rally.pec.AccessLogDiscriminator"/>
+        <sift>
+            <appender name="ACCESS-LOG" class="ch.qos.logback.core.FileAppender">
+                <file>logs/${HOSTNAME}-rally-pec-access.log</file>
+                <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+                    <fileNamePattern>logs/${HOSTNAME}-rally-pec-access.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+                    <maxFileSize>100MB</maxFileSize>
+                    <maxHistory>48</maxHistory>
+                </rollingPolicy>
+                <encoder>
+                    <pattern>%d [%thread] %level %mdc %logger{35} - %msg%n</pattern>
+                </encoder>
+            </appender>
+        </sift>
+    </appender>
+
+
+
+    <!--<logger name="ACCESS-LOG" level="DEBUG" additivity="false">-->
+    <!--<appender-ref ref="ACCESS-ROLLING"/>-->
+
+    <!--</logger>-->
+    <logger name="com.comcast.rally.pec" level="DEBUG" />
+    <logger name="akka.actor" level="DEBUG" />
+    <logger name="com.lambdaworks.redis" level="INFO"/>
+    <root>
+        <level value="INFO" />
+        <appender-ref ref="ROLLING" />
+        <appender-ref ref="ACCESS-SIFT"/>
+    </root>
+</configuration>

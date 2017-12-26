@@ -1,0 +1,10 @@
+updateSbtClassifiers
+cd /
+updateSbtClassifiers
+clean 
+compile
+assembly
+clean 
+compile
+assembly
+java -jar /Users/erodin200/IdeaProjects/RallyPull/target/scala-2.11/RallyPull-0.1.jar

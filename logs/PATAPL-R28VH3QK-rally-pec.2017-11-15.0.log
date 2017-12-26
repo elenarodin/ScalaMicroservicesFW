@@ -1,0 +1,99 @@
+2017-11-15 11:02:12,178  INFO [rally-pec-system-akka.actor.default-dispatcher-36] ACCESS-LOG - GET /user/dfg/servicepacks status=200 responseTime=5368392 
+2017-11-15 11:05:37,529  INFO [rally-pec-system-akka.actor.default-dispatcher-39] ACCESS-LOG - GET /user/dfg/servicepacks status=200 responseTime=2597706 
+2017-11-15 11:55:33,797  INFO [main] o.r.Reflections - Reflections took 442 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 11:59:49,408  INFO [main] o.r.Reflections - Reflections took 489 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:01:25,527  INFO [rally-pec-system-akka.actor.default-dispatcher-13] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=289879 
+2017-11-15 12:01:25,644  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=15118 
+2017-11-15 12:01:25,644  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=14919 
+2017-11-15 12:01:25,644  INFO [rally-pec-system-akka.actor.default-dispatcher-14] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=14887 
+2017-11-15 12:01:28,128  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1041717 
+2017-11-15 12:01:50,588  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /user/sdf/servicepacks status=200 responseTime=2666432 
+2017-11-15 12:13:27,960  INFO [main] o.r.Reflections - Reflections took 570 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:14:36,706  INFO [main] o.r.Reflections - Reflections took 499 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:15:22,543  INFO [main] o.r.Reflections - Reflections took 286 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:15:35,902  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /user/sdf/servicepacks status=500 responseTime=212908 
+2017-11-15 12:16:26,669  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=70977 
+2017-11-15 12:16:26,720  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=10580 
+2017-11-15 12:16:26,728  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=21314 
+2017-11-15 12:16:26,735  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=8823 
+2017-11-15 12:16:28,729  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1053422 
+2017-11-15 12:16:37,370  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /user/dfgdfg/servicepacks status=500 responseTime=2428 
+2017-11-15 12:17:52,643  INFO [main] o.r.Reflections - Reflections took 648 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:18:03,012  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=223177 
+2017-11-15 12:18:03,117  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=8216 
+2017-11-15 12:18:03,124  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=26591 
+2017-11-15 12:18:03,160  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=47607 
+2017-11-15 12:18:05,028  INFO [rally-pec-system-akka.actor.default-dispatcher-29] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1047678 
+2017-11-15 12:18:13,924  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /user/dsfds/servicepacks status=500 responseTime=18052 
+2017-11-15 12:19:24,065  INFO [main] o.r.Reflections - Reflections took 444 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:19:37,595  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /user/dsfds/servicepacks status=200 responseTime=4198680 
+2017-11-15 12:28:18,432  INFO [main] o.r.Reflections - Reflections took 482 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:28:28,947  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /user/dsfds/servicepacks status=500 responseTime=286217 
+2017-11-15 12:28:52,500  INFO [main] o.r.Reflections - Reflections took 337 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:28:56,479  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /user/dsfds/servicepacks status=500 responseTime=1949 
+2017-11-15 12:29:10,593  INFO [main] o.r.Reflections - Reflections took 291 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:29:52,992  INFO [main] o.r.Reflections - Reflections took 260 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:30:36,024  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /user/dsfds/servicepacks status=500 responseTime=38000649 
+2017-11-15 12:30:41,641  INFO [main] o.r.Reflections - Reflections took 532 ms to scan 1 urls, producing 266 keys and 4731 values  
+2017-11-15 12:31:26,826  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /user/dsfds/servicepacks status=200 responseTime=15397458 
+2017-11-15 12:36:28,549  INFO [main] o.r.Reflections - Reflections took 322 ms to scan 1 urls, producing 266 keys and 4735 values  
+2017-11-15 14:30:43,834  INFO [main] o.r.Reflections - Reflections took 619 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:30:49,122  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=230258 
+2017-11-15 14:30:49,216  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=8179 
+2017-11-15 14:30:49,217  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=8493 
+2017-11-15 14:30:49,217  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=10426 
+2017-11-15 14:30:51,653  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1376557 
+2017-11-15 14:31:00,266  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - GET /user/sdfss/servicepacks status=500 responseTime=118734 
+2017-11-15 14:31:29,571  INFO [main] o.r.Reflections - Reflections took 372 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:33:06,540  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /user/sdfss/servicepacks status=500 responseTime=92852006 
+2017-11-15 14:33:33,829  INFO [main] o.r.Reflections - Reflections took 465 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:33:38,962  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=157409 
+2017-11-15 14:33:38,996  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=9095 
+2017-11-15 14:33:38,996  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=1930 
+2017-11-15 14:33:39,012  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=3670 
+2017-11-15 14:33:41,202  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1283005 
+2017-11-15 14:33:49,658  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /user/sdsf/servicepacks status=500 responseTime=146214 
+2017-11-15 14:36:47,292  INFO [main] o.r.Reflections - Reflections took 503 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:37:26,057  INFO [main] o.r.Reflections - Reflections took 421 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:39:02,932  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=240598 
+2017-11-15 14:39:03,017  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=9504 
+2017-11-15 14:39:03,022  INFO [rally-pec-system-akka.actor.default-dispatcher-14] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=9991 
+2017-11-15 14:39:03,027  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=7507 
+2017-11-15 14:39:05,410  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1252028 
+2017-11-15 14:39:21,321  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /user/sdgdg/servicepacks status=500 responseTime=120895 
+2017-11-15 14:45:22,556  INFO [main] o.r.Reflections - Reflections took 450 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:45:29,394  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /user/sdgdg/servicepacks status=500 responseTime=497287 
+2017-11-15 14:45:34,045  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=51196 
+2017-11-15 14:45:34,075  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=2339 
+2017-11-15 14:45:34,086  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=10478 
+2017-11-15 14:45:34,090  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=17149 
+2017-11-15 14:45:35,789  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=823464 
+2017-11-15 14:45:44,088  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /user/dfgdg/servicepacks status=500 responseTime=2770 
+2017-11-15 14:47:40,042  INFO [main] o.r.Reflections - Reflections took 410 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:47:56,991  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /user/dfgdg/servicepacks status=500 responseTime=382524 
+2017-11-15 14:50:55,568  INFO [main] o.r.Reflections - Reflections took 395 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:52:04,042  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /user/dfgdg/servicepacks status=500 responseTime=63355278 
+2017-11-15 14:52:06,609  INFO [main] o.r.Reflections - Reflections took 371 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 14:53:37,387  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /user/dfgdg/servicepacks status=500 responseTime=85691711 
+2017-11-15 14:54:19,550  INFO [main] o.r.Reflections - Reflections took 395 ms to scan 1 urls, producing 266 keys and 4737 values  
+2017-11-15 14:54:33,901  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=258263 
+2017-11-15 14:54:33,950  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=8077 
+2017-11-15 14:54:33,950  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=9193 
+2017-11-15 14:54:33,950  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=2976 
+2017-11-15 14:54:36,743  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1487988 
+2017-11-15 14:55:07,950  INFO [main] o.r.Reflections - Reflections took 304 ms to scan 1 urls, producing 266 keys and 4737 values  
+2017-11-15 14:56:28,945  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /user/sdfsf/servicepacks status=200 responseTime=64169877 
+2017-11-15 14:58:34,604  INFO [main] o.r.Reflections - Reflections took 432 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 15:01:18,712  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /user/sdfsf/servicepacks status=500 responseTime=159073066 
+2017-11-15 15:01:24,731  INFO [main] o.r.Reflections - Reflections took 378 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 15:02:33,421  INFO [main] o.r.Reflections - Reflections took 475 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 15:02:49,475  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /user/sdfsf/servicepacks status=200 responseTime=9584174 
+2017-11-15 15:26:38,059  INFO [main] o.r.Reflections - Reflections took 445 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 15:26:53,855  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /user/sdfsf/servicepacks status=200 responseTime=7268942 
+2017-11-15 15:29:06,821  INFO [main] o.r.Reflections - Reflections took 445 ms to scan 1 urls, producing 266 keys and 4739 values  
+2017-11-15 15:29:09,992  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=186157 
+2017-11-15 15:29:10,051  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=4790 
+2017-11-15 15:29:10,052  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=12558 
+2017-11-15 15:29:10,086  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=27340 
+2017-11-15 15:29:12,346  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1249159 
+2017-11-15 15:29:25,049  INFO [rally-pec-system-akka.actor.default-dispatcher-13] ACCESS-LOG - GET /user/yer/servicepacks status=200 responseTime=5501502 

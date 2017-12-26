@@ -1,0 +1,185 @@
+2017-11-16 12:07:22,256  INFO [main] o.r.Reflections - Reflections took 502 ms to scan 1 urls, producing 261 keys and 4784 values  
+2017-11-16 12:09:23,053  INFO [main] o.r.Reflections - Reflections took 530 ms to scan 1 urls, producing 261 keys and 4784 values  
+2017-11-16 12:09:42,118  INFO [main] o.r.Reflections - Reflections took 514 ms to scan 1 urls, producing 261 keys and 4784 values  
+2017-11-16 12:10:40,467  INFO [main] o.r.Reflections - Reflections took 509 ms to scan 1 urls, producing 261 keys and 4784 values  
+2017-11-16 12:15:05,599  INFO [main] o.r.Reflections - Reflections took 666 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:15:21,604  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=551240 
+2017-11-16 12:15:21,905  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=16133 
+2017-11-16 12:15:21,910  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=27854 
+2017-11-16 12:15:21,910  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=25450 
+2017-11-16 12:15:25,498  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=2053708 
+2017-11-16 12:15:49,848  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /user/dfgd/servicepacks status=200 responseTime=17406695 
+2017-11-16 12:35:38,207  INFO [main] o.r.Reflections - Reflections took 626 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:35:44,008  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=235941 
+2017-11-16 12:35:44,098  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=13519 
+2017-11-16 12:35:44,103  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=31530 
+2017-11-16 12:35:44,107  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=37184 
+2017-11-16 12:35:46,352  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1047223 
+2017-11-16 12:36:55,879  INFO [main] o.r.Reflections - Reflections took 464 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:36:58,730  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=9510 
+2017-11-16 12:36:58,765  INFO [rally-pec-system-akka.actor.default-dispatcher-29] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=2473 
+2017-11-16 12:36:58,766  INFO [rally-pec-system-akka.actor.default-dispatcher-31] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=1890 
+2017-11-16 12:36:58,773  INFO [rally-pec-system-akka.actor.default-dispatcher-29] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=3174 
+2017-11-16 12:37:00,117  INFO [rally-pec-system-akka.actor.default-dispatcher-33] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=300227 
+2017-11-16 12:37:09,246  INFO [main] o.r.Reflections - Reflections took 621 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:37:13,835  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=5028 
+2017-11-16 12:37:13,858  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=2360 
+2017-11-16 12:37:13,861  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=1806 
+2017-11-16 12:37:13,865  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=4472 
+2017-11-16 12:37:14,840  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=172535 
+2017-11-16 12:37:36,058  INFO [main] o.r.Reflections - Reflections took 603 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:37:39,087  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=183190 
+2017-11-16 12:37:39,122  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=5495 
+2017-11-16 12:37:39,128  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=3138 
+2017-11-16 12:37:39,157  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=6936 
+2017-11-16 12:37:41,451  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1353852 
+2017-11-16 12:37:41,615  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=2258 
+2017-11-16 12:37:42,019  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=177142 
+2017-11-16 12:38:32,973  INFO [main] o.r.Reflections - Reflections took 396 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:38:50,012  INFO [main] o.r.Reflections - Reflections took 536 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:38:57,343  INFO [main] o.r.Reflections - Reflections took 645 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 12:39:46,368  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=159578 
+2017-11-16 12:39:46,446  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=5403 
+2017-11-16 12:39:46,448  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=7775 
+2017-11-16 12:39:46,450  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=10423 
+2017-11-16 12:39:48,425  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1044818 
+2017-11-16 12:40:22,059  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - OPTIONS /user/erter/servicepacks status=200 responseTime=1643 
+2017-11-16 12:41:16,967  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /user/erter/servicepacks status=200 responseTime=613 
+2017-11-16 12:41:22,541  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /user/erter/servicepacks status=200 responseTime=565 
+2017-11-16 12:41:25,510  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=2324 
+2017-11-16 12:41:25,545  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=2089 
+2017-11-16 12:41:25,548  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=2122 
+2017-11-16 12:41:25,557  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=2177 
+2017-11-16 12:41:26,605  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=166076 
+2017-11-16 12:41:41,490  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - OPTIONS /user/dfg/servicepacks status=200 responseTime=1532 
+2017-11-16 12:41:43,808  INFO [rally-pec-system-akka.actor.default-dispatcher-17] ACCESS-LOG - OPTIONS /user/dfg/servicepacks status=200 responseTime=687 
+2017-11-16 13:46:26,064  INFO [rally-pec-system-akka.actor.default-dispatcher-22] ACCESS-LOG - OPTIONS /user/dfg/servicepacks status=200 responseTime=4497 
+2017-11-16 13:46:27,014  INFO [rally-pec-system-akka.actor.default-dispatcher-22] ACCESS-LOG - OPTIONS /user/dfg/servicepacks status=200 responseTime=942 
+2017-11-16 13:46:44,549  INFO [main] o.r.Reflections - Reflections took 628 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 13:47:08,087  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - OPTIONS /user/dfg/servicepacks status=200 responseTime=275252 
+2017-11-16 13:48:02,118  INFO [main] o.r.Reflections - Reflections took 524 ms to scan 1 urls, producing 260 keys and 4784 values  
+2017-11-16 13:48:28,376  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=335160 
+2017-11-16 13:48:28,489  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=11808 
+2017-11-16 13:48:28,494  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=25604 
+2017-11-16 13:48:28,500  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=22856 
+2017-11-16 13:48:30,760  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1062740 
+2017-11-16 13:49:27,000  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - OPTIONS /user/ferf/servicepacks status=200 responseTime=4022 
+2017-11-16 13:51:33,134  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /user/ferf/servicepacks%22%20-H%20%22accept:%20application/json%22%20-H%20%22Rally-API-Key:%20werwr%22%20-H%20%22Releases:%20werwer status=404 responseTime=10341 
+2017-11-16 13:51:34,023  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /favicon.ico status=404 responseTime=1755 
+2017-11-16 13:51:50,194  INFO [rally-pec-system-akka.actor.default-dispatcher-31] ACCESS-LOG - GET /user/ferf/servicepacks/ status=404 responseTime=1639 
+2017-11-16 13:54:24,927  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - OPTIONS /user/ferf/servicepacks status=200 responseTime=1223 
+2017-11-16 14:57:08,338  INFO [main] o.r.Reflections - Reflections took 535 ms to scan 1 urls, producing 260 keys and 4786 values  
+2017-11-16 15:00:59,581  INFO [main] o.r.Reflections - Reflections took 372 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:01:15,381  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=321980 
+2017-11-16 15:01:15,571  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=14143 
+2017-11-16 15:01:15,572  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=15786 
+2017-11-16 15:01:15,579  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=22222 
+2017-11-16 15:01:17,177  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/favicon-32x32.png status=200 responseTime=8609 
+2017-11-16 15:01:17,220  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/favicon-16x16.png status=200 responseTime=7271 
+2017-11-16 15:01:18,331  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1291696 
+2017-11-16 15:01:42,611  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - OPTIONS /user/jhdsgjs/servicepacks status=200 responseTime=3829 
+2017-11-16 15:02:15,032  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - OPTIONS /user/jhdsgjs/servicepacks status=200 responseTime=652 
+2017-11-16 15:02:16,121  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - OPTIONS /user/jhdsgjs/servicepacks status=200 responseTime=581 
+2017-11-16 15:02:16,633  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - OPTIONS /user/jhdsgjs/servicepacks status=200 responseTime=582 
+2017-11-16 15:02:17,118  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /user/jhdsgjs/servicepacks status=200 responseTime=559 
+2017-11-16 15:03:19,775  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /user/jhdsgjs/servicepacks status=200 responseTime=19166122 
+2017-11-16 15:03:41,205  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /user/jhdsgjs/servicepacks status=200 responseTime=10037235 
+2017-11-16 15:07:04,274  INFO [main] o.r.Reflections - Reflections took 616 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:07:13,697  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=329125 
+2017-11-16 15:07:13,797  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=11007 
+2017-11-16 15:07:13,807  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=7129 
+2017-11-16 15:07:13,807  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=22708 
+2017-11-16 15:07:15,004  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/favicon-32x32.png status=200 responseTime=10811 
+2017-11-16 15:07:15,042  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/favicon-16x16.png status=200 responseTime=9065 
+2017-11-16 15:07:15,822  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=951141 
+2017-11-16 15:07:24,057  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=6596 
+2017-11-16 15:07:29,476  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=688 
+2017-11-16 15:07:30,333  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=577 
+2017-11-16 15:07:31,853  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=825 
+2017-11-16 15:07:33,701  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=585 
+2017-11-16 15:07:34,501  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=610 
+2017-11-16 15:07:34,827  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=663 
+2017-11-16 15:07:35,144  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=626 
+2017-11-16 15:07:35,277  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=883 
+2017-11-16 15:07:35,416  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - OPTIONS /user/dfdsfdsfsdf/servicepacks status=200 responseTime=464 
+2017-11-16 15:08:00,652  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /user/dfdsfdsfsdf/servicepacks status=406 responseTime=13180368 
+2017-11-16 15:11:34,259  INFO [main] o.r.Reflections - Reflections took 622 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:11:43,658  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=331642 
+2017-11-16 15:11:43,743  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=6897 
+2017-11-16 15:11:43,763  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=24634 
+2017-11-16 15:11:43,769  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=7523 
+2017-11-16 15:11:44,959  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/favicon-32x32.png status=200 responseTime=7214 
+2017-11-16 15:11:45,006  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - GET /api-docs/favicon-16x16.png status=200 responseTime=4350 
+2017-11-16 15:11:45,762  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=995914 
+2017-11-16 15:11:54,476  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /user/sdfsdffs/servicepacks status=200 responseTime=4093 
+2017-11-16 15:12:10,985  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=5084 
+2017-11-16 15:12:10,992  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js.map status=200 responseTime=9253 
+2017-11-16 15:12:11,007  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js.map status=200 responseTime=17126 
+2017-11-16 15:12:11,156  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui.css.map status=200 responseTime=10678 
+2017-11-16 15:12:15,712  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/ui status=304 responseTime=2399 
+2017-11-16 15:12:15,747  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=304 responseTime=1782 
+2017-11-16 15:12:15,748  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=304 responseTime=1514 
+2017-11-16 15:12:15,749  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=3559 
+2017-11-16 15:12:16,800  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js.map status=304 responseTime=2401 
+2017-11-16 15:12:16,804  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js.map status=304 responseTime=2727 
+2017-11-16 15:12:16,828  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger-ui.css.map status=304 responseTime=2030 
+2017-11-16 15:12:17,041  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=184214 
+2017-11-16 15:12:29,511  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=304 responseTime=2265 
+2017-11-16 15:12:29,557  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js.map status=304 responseTime=1685 
+2017-11-16 15:12:29,558  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js.map status=304 responseTime=1523 
+2017-11-16 15:12:29,584  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - GET /api-docs/swagger-ui.css.map status=304 responseTime=1599 
+2017-11-16 15:12:52,929  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - OPTIONS /user/dfgfxgfdg/servicepacks status=200 responseTime=577 
+2017-11-16 15:15:06,243  INFO [main] o.r.Reflections - Reflections took 458 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:15:12,036  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=197429 
+2017-11-16 15:15:12,081  INFO [rally-pec-system-akka.actor.default-dispatcher-12] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=7706 
+2017-11-16 15:15:12,082  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=11470 
+2017-11-16 15:15:12,094  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=16481 
+2017-11-16 15:15:14,228  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1163863 
+2017-11-16 15:15:33,693  INFO [rally-pec-system-akka.actor.default-dispatcher-32] ACCESS-LOG - OPTIONS /user/dvdv/servicepacks status=200 responseTime=3501 
+2017-11-16 15:15:36,298  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /user/dvdv/servicepacks status=406 responseTime=2569422 
+2017-11-16 15:15:58,725  INFO [main] o.r.Reflections - Reflections took 706 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:16:50,131  INFO [main] o.r.Reflections - Reflections took 395 ms to scan 1 urls, producing 259 keys and 4786 values  
+2017-11-16 15:17:01,559  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=348964 
+2017-11-16 15:17:01,632  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=13966 
+2017-11-16 15:17:01,633  INFO [rally-pec-system-akka.actor.default-dispatcher-13] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=16511 
+2017-11-16 15:17:01,637  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=8637 
+2017-11-16 15:17:02,686  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/favicon-32x32.png status=200 responseTime=9979 
+2017-11-16 15:17:02,715  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/favicon-16x16.png status=200 responseTime=9619 
+2017-11-16 15:17:03,505  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=903466 
+2017-11-16 15:17:12,990  INFO [rally-pec-system-akka.actor.default-dispatcher-32] ACCESS-LOG - OPTIONS /user/fghgfhghgfh/servicepacks status=200 responseTime=4196 
+2017-11-16 15:17:20,863  INFO [rally-pec-system-akka.actor.default-dispatcher-11] ACCESS-LOG - GET /user/fghgfhghgfh/servicepacks status=200 responseTime=7866771 
+2017-11-16 15:28:24,237  INFO [main] o.r.Reflections - Reflections took 515 ms to scan 1 urls, producing 260 keys and 4785 values  
+2017-11-16 15:29:12,920  INFO [main] o.r.Reflections - Reflections took 371 ms to scan 1 urls, producing 259 keys and 4785 values  
+2017-11-16 15:29:26,561  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=311708 
+2017-11-16 15:29:26,637  INFO [rally-pec-system-akka.actor.default-dispatcher-4] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=9010 
+2017-11-16 15:29:26,640  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=9287 
+2017-11-16 15:29:26,640  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=12382 
+2017-11-16 15:29:27,879  INFO [rally-pec-system-akka.actor.default-dispatcher-28] ACCESS-LOG - GET /api-docs/favicon-32x32.png status=200 responseTime=7099 
+2017-11-16 15:29:27,926  INFO [rally-pec-system-akka.actor.default-dispatcher-29] ACCESS-LOG - GET /api-docs/favicon-16x16.png status=200 responseTime=10210 
+2017-11-16 15:29:28,703  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=902539 
+2017-11-16 15:30:04,048  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /project/releases/TWS_0518_Americano,TWS_0420_Macchiato%20/details status=200 responseTime=4648 
+2017-11-16 15:30:13,238  INFO [rally-pec-system-akka.actor.default-dispatcher-30] ACCESS-LOG - GET /project/releases/TWS_0518_Americano,TWS_0420_Macchiato%20/details status=200 responseTime=9172361 
+2017-11-16 15:31:19,529  INFO [main] o.r.Reflections - Reflections took 476 ms to scan 1 urls, producing 259 keys and 4785 values  
+2017-11-16 15:31:42,819  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=265103 
+2017-11-16 15:31:42,889  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=13694 
+2017-11-16 15:31:42,899  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=15152 
+2017-11-16 15:31:42,904  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=9629 
+2017-11-16 15:31:44,710  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=857095 
+2017-11-16 15:32:14,448  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - OPTIONS /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=4271 
+2017-11-16 15:32:16,803  INFO [rally-pec-system-akka.actor.default-dispatcher-32] ACCESS-LOG - GET /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=2332470 
+2017-11-16 16:54:23,469  INFO [main] o.r.Reflections - Reflections took 302 ms to scan 1 urls, producing 259 keys and 4785 values  
+2017-11-16 16:54:54,280  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /api-docs/ui status=200 responseTime=231605 
+2017-11-16 16:54:54,358  INFO [rally-pec-system-akka.actor.default-dispatcher-13] ACCESS-LOG - GET /api-docs/swagger-ui-bundle.js status=200 responseTime=8208 
+2017-11-16 16:54:54,358  INFO [rally-pec-system-akka.actor.default-dispatcher-3] ACCESS-LOG - GET /api-docs/swagger-ui.css status=200 responseTime=8573 
+2017-11-16 16:54:54,364  INFO [rally-pec-system-akka.actor.default-dispatcher-6] ACCESS-LOG - GET /api-docs/swagger-ui-standalone-preset.js status=200 responseTime=14117 
+2017-11-16 16:54:56,959  INFO [rally-pec-system-akka.actor.default-dispatcher-8] ACCESS-LOG - GET /api-docs/swagger.json status=200 responseTime=1255535 
+2017-11-16 16:55:12,663  INFO [rally-pec-system-akka.actor.default-dispatcher-7] ACCESS-LOG - GET /health/ping status=200 responseTime=5261 
+2017-11-16 16:55:42,941  INFO [rally-pec-system-akka.actor.default-dispatcher-10] ACCESS-LOG - OPTIONS /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=3899 
+2017-11-16 16:55:45,956  INFO [rally-pec-system-akka.actor.default-dispatcher-2] ACCESS-LOG - GET /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=2992054 
+2017-11-16 17:08:36,771  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /health/ping status=200 responseTime=9629 
+2017-11-16 17:09:02,149  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=950 
+2017-11-16 17:09:05,301  INFO [rally-pec-system-akka.actor.default-dispatcher-33] ACCESS-LOG - GET /project/releases/TWS_0518_Americano,TWS_0420_Macchiato/details status=200 responseTime=3132493 
+2017-11-16 17:10:38,245  INFO [rally-pec-system-akka.actor.default-dispatcher-34] ACCESS-LOG - OPTIONS /project/releases/TWS_0420_Macchiato/details status=200 responseTime=659 
+2017-11-16 17:10:39,208  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - GET /project/releases/TWS_0420_Macchiato/details status=200 responseTime=938069 
+2017-11-16 17:10:50,697  INFO [rally-pec-system-akka.actor.default-dispatcher-9] ACCESS-LOG - OPTIONS /project/releases/TWS_0420_Macchiat/details status=200 responseTime=707 
+2017-11-16 17:10:51,836  INFO [rally-pec-system-akka.actor.default-dispatcher-34] ACCESS-LOG - GET /project/releases/TWS_0420_Macchiat/details status=200 responseTime=1114644 
